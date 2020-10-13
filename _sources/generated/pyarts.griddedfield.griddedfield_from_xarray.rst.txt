@@ -1,6 +1,0 @@
-pyarts.griddedfield.griddedfield\_from\_xarray
-==============================================
-
-.. currentmodule:: pyarts.griddedfield
-
-.. autofunction:: griddedfield_from_xarray
